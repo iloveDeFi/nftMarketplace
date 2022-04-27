@@ -95,7 +95,6 @@ export const EthPrice = ({ price }) => {
       }}>
           <People />
           <EndDate />
-        <Text>SubInfo</Text>
       </View>
     )
   }
